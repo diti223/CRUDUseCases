@@ -1,6 +1,5 @@
 //
 //  Creational.swift
-//  XTree
 //
 //  Created by Adrian-Dieter Bilescu on 9/22/19.
 //  Copyright © 2019 Bilescu. All rights reserved.
